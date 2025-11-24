@@ -116,7 +116,7 @@ export function Footer() {
               <li className="flex items-center gap-2">
                 <Phone className="w-5 h-5 flex-shrink-0" style={{ color: '#CF8852' }} />
                 <a href="tel:+2341234567890" className="text-gray-400 hover:text-white transition-colors">
-                  +234 123 456 7890
+                  +234 9036084447
                 </a>
               </li>
               <li className="flex items-center gap-2">
@@ -131,7 +131,7 @@ export function Footer() {
 
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; {currentYear} BookStore. All rights reserved.</p>
+          <p>&copy; {currentYear} BookStore. All rights reserved.</p> <a href="https://github.com/aycodes25"> Developed by Aycodes</a>
         </div>
       </div>
     </footer>
